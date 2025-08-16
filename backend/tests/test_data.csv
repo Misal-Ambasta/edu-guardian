@@ -1,0 +1,6 @@
+student_id,timestamp,course_id,week_number,nps_score,lms_usability_score,instructor_quality_score,content_difficulty_score,support_quality_score,course_pace_score,comments
+student1,2023-01-01,course101,1,8,4,5,3,4,3,"The course is going well, but I find some concepts challenging."
+student2,2023-01-01,course101,1,7,3,4,4,3,2,"I am struggling with the pace of the course."
+student3,2023-01-01,course101,1,9,5,5,2,5,4,"I'm really enjoying the course content and the instructor is excellent."
+student4,2023-01-01,course102,1,6,3,3,4,2,2,"The course materials are difficult to understand."
+student5,2023-01-01,course102,1,5,2,3,5,2,1,"I'm finding this course very challenging and the support is inadequate."
